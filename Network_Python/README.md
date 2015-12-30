@@ -18,7 +18,10 @@ and wait for response for a bufsize of 4096
 
 tcp_server 
 -nuff said server 
--This script will import socket and like client, I have created  threads to handle multiple clients
+-First hald of the script is similar to client, while on second half I  have created Threads to handle multiple clients
 and will print out any message sent by client and return a short and sweet message "Ack!" 
--run both script on diffent terminal and you have the world's most simplest client-sever app.
+
+
+
+Run both script on diffent terminal and you have the world's most simplest client-sever app.
 
