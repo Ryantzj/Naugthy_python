@@ -21,6 +21,8 @@ tcp_server
 -First hald of the script is similar to client, while on second half I  have created Threads to handle multiple clients
 and will print out any message sent by client and return a short and sweet message "Ack!" 
 
+udp_client
+-How can we leave out our udp friend. Udp client and tcp are very similar but because how both protocol work differently, udp_client doesnt require to authenticate destination before transmiting data.
 
 
 Run both script on diffent terminal and you have the world's most simplest client-sever app.
